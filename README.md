@@ -1,16 +1,7 @@
-# expense_tracker
+# The Expense Tracker App
+<br />
 
-A new Flutter project.
+## About
+An app that allows a user to add expenses (name, type, date, amount). The app will then output the expense in a graph that the user can use to view the expenses.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
