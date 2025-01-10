@@ -4,6 +4,14 @@
 ## About
 An app that allows a user to add expenses (name, type, date, amount). The app will then output the expense in a graph that the user can use to view the expenses.
 
+## Features:
+  - Tracks expenses
+  - Provides graph
+
+## Packages Used:
+  - Uuid
+  - Intl
+
 ## Images
 <table>
   <tr>
